@@ -87,9 +87,6 @@ def scrape_stock_quote(url,company_percentage, num_of_years, capital):
 	stock_list.remove("VTE")
 # company that no longer exist in the market
 
-	# final_stock_quotes[stock_list.index('F&D')] = 'F%26D'
-	# final_stock_quotes[stock_list.index('FER')] = 'RP'
-	# final_stock_quotes[stock_list.index('L&E')] = 'L%26E'
 	stock_list[stock_list.index('F&D')] = 'F%26D'
 	stock_list[stock_list.index('FER')] = 'RP'
 	stock_list[stock_list.index('L&E')] = 'L%26E'

@@ -1,4 +1,3 @@
-[Command: python -u /Users/Don/Desktop/Settrade-Stock-Profile/stock_scrape.py]
 Stock:        2S  |  Company-Holds:  39.02  %  |  Years:    9  |  Capital:  549,999,244.00
 Stock:       7UP  |  Company-Holds:  13.66  %  |  Years:   16  |  Capital:  3,272,894,283.00
 Stock:         A  |  Company-Holds:  73.10  %  |  Years:   14  |  Capital:  1,200,000,000.00
@@ -638,7 +637,7 @@ Stock:       TVO  |  Company-Holds:  37.49  %  |  Years:   28  |  Capital:  808,
 Stock:       TVT  |  Company-Holds:  66.48  %  |  Years:    3  |  Capital:  250,000,000.00
 Stock:       TWP  |  Company-Holds:  42.45  %  |  Years:   29  |  Capital:  500,000,000.00
 Stock:      TWPC  |  Company-Holds:  48.35  %  |  Years:    3  |  Capital:  880,420,930.00
-Stock:       TWZ  |  Company-Holds:  8.65  %   |  Years:   13  |  Capital:  1,141,588,716.20 
+Stock:       TWZ  |  Company-Holds:  8.65  %   |  Years:   13  |  Capital:  1,141,588,716.20
 Stock:      TYCN  |  Company-Holds:  70.42  %  |  Years:   15  |  Capital:  5,967,489,000.00
 Stock:         U  |  Company-Holds:  46.53  %  |  Years:   25  |  Capital:  1,122,275,316,583.00
 Stock:       UAC  |  Company-Holds:  67.91  %  |  Years:    8  |  Capital:  367,183,150.50
@@ -686,4 +685,3 @@ Stock:     YUASA  |  Company-Holds:  84.18  %  |  Years:   16  |  Capital:  107,
 Stock:      ZIGA  |  Company-Holds:  62.61  %  |  Years:    1  |  Capital:  260,000,000.00
 Stock:     ZMICO  |  Company-Holds:  12.65  %  |  Years:   23  |  Capital:  941,964,586.00
 Total stock: 686
-[Finished in 128.324s]
